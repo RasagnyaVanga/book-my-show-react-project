@@ -422,6 +422,18 @@
       "availableTickets": 98,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IFNlcCBvbndhcmRz,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00394655-mcknqadbae-portrait.jpg",
       "description": "Welcome to the `Single`s Meetup`  a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That`s where we come in.This isn`t your typical singles event with the pressure of finding `the one.` Instead, it`s an evening dedicated to the art of living single, where you can share stories, laugh about the dating disasters, and discuss the personal growth and freedom that comes with this phase of life."
+    },
+    {
+      "id": "0572",
+      "managedBy": "Gor5gjjowYWMRDY2e2s7ZkbMg2i2",
+      "type": "Movie",
+      "title": "MIrai movie",
+      "location": "chennai",
+      "date": "2025-09-09",
+      "time": "00:00",
+      "availableTickets": 300,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IFNlcA%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00431671-duvwdmjwqx-portrait.jpg",
+      "description": "Life is real the way it stares you at the face. A certificate is an attempt to make it funnier and happier. I believe in the power of laughter to heal and unite. Even the most offensive jokes can bring people together in laughter. "
     }
   ],
   "bookings": [
@@ -599,6 +611,23 @@
       ],
       "location": "Mumbai",
       "booking_time": "2025-09-02T06:25:56.206Z"
+    },
+    {
+      "id": "66fc",
+      "user_id": "2N2PbAThPmVZX3ZqHZelF1nhrIC3",
+      "type": "movie",
+      "movie_id": "m7",
+      "movie_name": "Son of Sardaar 2",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "03 Sept 2025",
+      "show_time": "3:00PM",
+      "seats": [
+        "R4C8",
+        "R4C9"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T07:07:33.604Z"
     }
   ],
   "theatres": [
@@ -1602,6 +1631,7 @@
     {
       "id": "86bc",
       "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 6,
       "review-description": "not bad",
       "userName": "ravi",
       "movieId": "m4"
@@ -1609,6 +1639,7 @@
     {
       "id": "e9c1",
       "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 8.5,
       "review-description": "Rockstar -- must watch ..great movie..",
       "userName": "ravi",
       "movieId": "m10"
@@ -1616,6 +1647,7 @@
     {
       "id": "6ce4",
       "userId": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "rating": 10,
       "review-description": "Every person must experience this movie!",
       "userName": "saketh",
       "movieId": "m2"
@@ -1623,6 +1655,7 @@
     {
       "id": "2f0f",
       "userId": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "rating": 9.5,
       "review-description": "Blockbuster movie!! Great watch.. ",
       "userName": "saketh",
       "movieId": "m1"
@@ -1630,6 +1663,7 @@
     {
       "id": "b259",
       "userId": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "rating": 7,
       "review-description": "It was a decent watch. Good story.",
       "userName": "vinay",
       "movieId": "m8"
@@ -1657,6 +1691,30 @@
       "review-description": "good romcom",
       "userName": "sriya",
       "movieId": "m6"
+    },
+    {
+      "id": "bc2b",
+      "userId": "2N2PbAThPmVZX3ZqHZelF1nhrIC3",
+      "rating": 8.5,
+      "review-description": "Fun movie! Great Entertainment",
+      "userName": "sriya",
+      "movieId": "m7"
+    },
+    {
+      "id": "25b9",
+      "userId": "Gor5gjjowYWMRDY2e2s7ZkbMg2i2",
+      "rating": 9.5,
+      "review-description": "Loved the movie and experience",
+      "userName": "Avinash",
+      "movieId": "m2"
+    },
+    {
+      "id": "bb24",
+      "userId": "Gor5gjjowYWMRDY2e2s7ZkbMg2i2",
+      "rating": 7.5,
+      "review-description": "great",
+      "userName": "Avinash",
+      "movieId": "m1"
     }
   ]
 }

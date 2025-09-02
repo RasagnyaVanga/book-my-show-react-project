@@ -27,7 +27,8 @@ export default function ViewReviews({ open, onClose, movieId }) {
                 {reviews.length > 0 ? (
                     reviews.map((review, index) => (
                         <div key={index} style={{ marginBottom: "1rem", borderBottom: "1px solid #ccc", paddingBottom: "0.5rem" }}>
-                            <strong>{review.userName}</strong>
+                            <strong>{review.userName}  {review["rating"]}/10</strong> 
+            
                             <p>{review["review-description"]}</p>
                         </div>
                     ))

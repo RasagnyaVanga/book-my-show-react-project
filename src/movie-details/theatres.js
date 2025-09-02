@@ -8,6 +8,7 @@ import { useParams } from "react-router-dom";
 import { AuthContext } from "../authentication/authcontext.js";
 import ViewReviews from "./viewreviews.js";
 import ReviewPopup from "./reviewform-dialog.js";
+import Rating from "./rating.js";
 export default function Theatres() {
     const { movieId } = useParams();
     const theatreRef = useRef(null);
@@ -78,6 +79,7 @@ export default function Theatres() {
                                 </div>
                                 <div className="movie-info">
                                     <h1 className="movie-title">{currentMovie.title}</h1>
+                                    <Rating movieId={currentMovie.id}/>
                                     <div className="movie-languages">
                                         <span className="lang-tag">
                                             {currentMovie.language}
