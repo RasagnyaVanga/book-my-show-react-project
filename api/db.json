@@ -167,7 +167,7 @@
       "location": "hyderabad",
       "date": "2025-09-12",
       "time": "08:30 PM",
-      "availableTickets": 157,
+      "availableTickets": 152,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxMSBPY3Q%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end:l-text,ie-UFJPTU9URUQ%3D,co-FFFFFF,bg-DC354B,ff-Roboto,fs-20,lx-N16,ly-12,lfo-top_right,pa-12_14_12_14,r-6,l-end/et00446350-ehrrshdkdw-portrait.jpg",
       "description": "An electrifying rock concert with top local bands."
     },
@@ -299,7 +299,7 @@
       "location": "chennai",
       "date": "2025-11-06",
       "time": "06:30 PM",
-      "availableTickets": 128,
+      "availableTickets": 123,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00457003-lmpqlqndcd-portrait.jpg",
       "description": "A grand night of Carnatic music by top vocalists."
     },
@@ -434,6 +434,30 @@
       "availableTickets": 300,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IFNlcA%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00431671-duvwdmjwqx-portrait.jpg",
       "description": "Life is real the way it stares you at the face. A certificate is an attempt to make it funnier and happier. I believe in the power of laughter to heal and unite. Even the most offensive jokes can bring people together in laughter. "
+    },
+    {
+      "id": "864a",
+      "managedBy": "uF1C97GGt9TS01YEHx5MZxL4Mbf2",
+      "type": "Workshop",
+      "title": "Painting",
+      "location": "hyderabad",
+      "date": "2025-12-12",
+      "time": "10:00",
+      "availableTickets": 200,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAxOSBEZWM%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00457262-dkpgffedtg-portrait.jpg",
+      "description": "Explore painting here "
+    },
+    {
+      "id": "16b5",
+      "managedBy": "6rOJTsVwBWYZPXjzfxG87ZuXaWs2",
+      "type": "concert",
+      "title": "INDIA TOUR OF LOKI",
+      "location": "hyderabad",
+      "date": "2025-12-12",
+      "time": "21:00",
+      "availableTickets": 500,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxMyBEZWM%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00456629-hyjtzckkyj-portrait.jpg",
+      "description": "Come experience the love of music"
     }
   ],
   "bookings": [
@@ -628,6 +652,159 @@
       ],
       "location": "Hyderabad",
       "booking_time": "2025-09-02T07:07:33.604Z"
+    },
+    {
+      "id": "4881",
+      "user_id": "uF1C97GGt9TS01YEHx5MZxL4Mbf2",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C3",
+        "R1C4"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T09:07:36.304Z"
+    },
+    {
+      "id": "35f7",
+      "user_id": "BzRcdRH3sBVNbnAwL6Zygfnqnz13",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "04 Sept 2025",
+      "show_time": "12:00PM",
+      "seats": [
+        "R1C1",
+        "R1C2",
+        "R1C3"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T09:14:10.325Z"
+    },
+    {
+      "id": "2404",
+      "user_id": "BzRcdRH3sBVNbnAwL6Zygfnqnz13",
+      "type": "event",
+      "event_id": "e2",
+      "event_title": "Rock Night Hyderabad",
+      "event_type": "concert",
+      "time": "08:30 PM",
+      "seats": 5,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T09:14:47.939Z"
+    },
+    {
+      "id": "6f7a",
+      "user_id": "6rOJTsVwBWYZPXjzfxG87ZuXaWs2",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t11",
+      "theatre_name": "GPR Cinemas",
+      "show_date": "04 Sept 2025",
+      "show_time": "12:00PM",
+      "seats": [
+        "R1C2",
+        "R1C3"
+      ],
+      "location": "Chennai",
+      "booking_time": "2025-09-02T09:21:31.348Z"
+    },
+    {
+      "id": "71ad",
+      "user_id": "6rOJTsVwBWYZPXjzfxG87ZuXaWs2",
+      "type": "event",
+      "event_id": "e13",
+      "event_title": "Classical Night Chennai",
+      "event_type": "music",
+      "time": "06:30 PM",
+      "seats": 5,
+      "location": "Chennai",
+      "booking_time": "2025-09-02T09:22:09.497Z"
+    },
+    {
+      "id": "27f0",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_time": "3:00PM",
+      "seats": [
+        "R5C5"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T10:06:08.029Z"
+    },
+    {
+      "id": "0ba9",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m9",
+      "movie_name": "F1: The Movie",
+      "theatre_id": "t11",
+      "theatre_name": "GPR Cinemas",
+      "show_date": "02 Sept 2025",
+      "show_time": "3:00PM",
+      "seats": [
+        "R7C8"
+      ],
+      "location": "Chennai",
+      "booking_time": "2025-09-02T10:13:24.016Z"
+    },
+    {
+      "id": "ff86",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m4",
+      "movie_name": "Saiyaara",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "03 Sept 2025",
+      "show_time": "9:00PM",
+      "seats": [
+        "R5C3"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T10:46:56.453Z"
+    },
+    {
+      "id": "479c",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m5",
+      "movie_name": "Coolie: The Powerhouse (Hindi)",
+      "theatre_id": "t21",
+      "theatre_name": "INOX Garuda Mall",
+      "show_date": "03 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C2"
+      ],
+      "location": "Bengaluru",
+      "booking_time": "2025-09-02T10:47:48.961Z"
+    },
+    {
+      "id": "8da7",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m2",
+      "movie_name": "Mahavatar Narsimha",
+      "theatre_id": "t11",
+      "theatre_name": "GPR Cinemas",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C4"
+      ],
+      "location": "Chennai",
+      "booking_time": "2025-09-02T10:56:54.979Z"
     }
   ],
   "theatres": [
@@ -1715,6 +1892,62 @@
       "review-description": "great",
       "userName": "Avinash",
       "movieId": "m1"
+    },
+    {
+      "id": "dd41",
+      "userId": "uF1C97GGt9TS01YEHx5MZxL4Mbf2",
+      "rating": 9.5,
+      "review-description": "Loved the movie",
+      "userName": "Raj",
+      "movieId": "m1"
+    },
+    {
+      "id": "94af",
+      "userId": "BzRcdRH3sBVNbnAwL6Zygfnqnz13",
+      "rating": 8.5,
+      "review-description": "great movie",
+      "userName": "mahesh",
+      "movieId": "m1"
+    },
+    {
+      "id": "5df5",
+      "userId": "6rOJTsVwBWYZPXjzfxG87ZuXaWs2",
+      "rating": 9.5,
+      "review-description": "great movie",
+      "userName": "raviteja",
+      "movieId": "m1"
+    },
+    {
+      "id": "df26",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 8.5,
+      "review-description": "good",
+      "userName": "ravi",
+      "movieId": "m1"
+    },
+    {
+      "id": "8844",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 9.5,
+      "review-description": "good",
+      "userName": "ravi",
+      "movieId": "m9"
+    },
+    {
+      "id": "8410",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 8.5,
+      "review-description": "avg",
+      "userName": "ravi",
+      "movieId": "m5"
+    },
+    {
+      "id": "f3b3",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 9.5,
+      "review-description": "ultimate",
+      "userName": "ravi",
+      "movieId": "m2"
     }
   ]
 }

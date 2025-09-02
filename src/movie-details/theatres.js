@@ -1,4 +1,4 @@
-import { useContext, useRef, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import { MovieContext } from '../globalcontext/MovieContextComponent.js';
 import { toast } from "react-toastify";
 import './theatres.css';
@@ -17,6 +17,22 @@ export default function Theatres() {
 
     const [viewReviews, setViewReviews] = useState(false);
     const [viewReviewForm, setViewReviewForm] = useState(false);
+    const [isReviewSubmitted, setIsReviewSubmitted] = useState(false);
+    const [updatedReviewsData,setUpdatedReviewsData]=useState([]);
+
+    const fetchRatingData = async () => {
+        try {
+            const res = await fetch(`http://localhost:5001/reviews/?movieId=${movieId}`);
+            const ReviewsData = await res.json();
+            setUpdatedReviewsData(ReviewsData);
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    useEffect( () => {
+       fetchRatingData();
+    }, [isReviewSubmitted, movieId]);
 
     const handleViewReviewButton = () => {
         setViewReviews(true);
@@ -30,10 +46,10 @@ export default function Theatres() {
             }
             const res = await fetch(`http://localhost:5001/bookings/?movie_id=${currentMovie.id}&user_id=${user.uid}`);
             const data = await res.json(); //checking if user saw movie
-
+            //console.log(data);
             const reviewRes = await fetch(`http://localhost:5001/reviews/?movieId=${currentMovie.id}&userId=${user.uid}`)
             const reviewData = await reviewRes.json(); //checking if user already added review
-
+            //console.log(reviewData);
 
             if (reviewData.length > 0) {
                 toast.error("You already added a review for this movie");
@@ -79,7 +95,7 @@ export default function Theatres() {
                                 </div>
                                 <div className="movie-info">
                                     <h1 className="movie-title">{currentMovie.title}</h1>
-                                    <Rating movieId={currentMovie.id}/>
+                                    <Rating movieId={currentMovie.id} latestReviewData={updatedReviewsData} />
                                     <div className="movie-languages">
                                         <span className="lang-tag">
                                             {currentMovie.language}
@@ -99,6 +115,7 @@ export default function Theatres() {
                             <ReviewPopup open={viewReviewForm}
                                 onClose={handleCancel}
                                 setViewReviewForm={setViewReviewForm}
+                                setIsReviewSubmitted={setIsReviewSubmitted}
                                 currentMovie={currentMovie}
                             />
                         }

@@ -5,7 +5,7 @@ import { Dialog, DialogTitle, DialogContent, DialogActions, TextField, Button } 
 import { toast } from "react-toastify";
 import { useContext, useState } from 'react';
 import { AuthContext } from '../authentication/authcontext';
-export default function ReviewPopup({ setViewReviewForm, open, onClose, currentMovie }) {
+export default function ReviewPopup({ setViewReviewForm, open, onClose, currentMovie,setIsReviewSubmitted }) {
     const [rating, setRating] = useState();
     const { user } = useContext(AuthContext);
 
@@ -30,10 +30,12 @@ export default function ReviewPopup({ setViewReviewForm, open, onClose, currentM
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify(review),
+
             });
             if (!res.ok)
                 throw new Error("Failed to add a review");
             toast.success("Review added successfully");
+            setIsReviewSubmitted(true);
             e.target.reset();
         } catch (error) {
             console.error(error);
