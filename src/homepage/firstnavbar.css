@@ -1,0 +1,45 @@
+.first-navbar {
+    background-color: white;
+    display: flex;
+    height: 40px;
+    padding: 10px 150px;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+    object-fit: contain;
+}
+
+.right-portion {
+    display: flex;
+    gap: 20px; 
+}
+
+.location-select {
+    font-size: 16px;
+    padding: 5px 10px;
+    height: 35px;
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.button {
+    font-size: 14px;
+    padding: 5px 10px;
+    height: 30px;
+    width: 120px;
+    background-color: #f84464;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #d93652;
+}

@@ -1,0 +1,15 @@
+.second-navbar-in-home{
+  background-color: #d3d3d3;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding:10px 150px;
+}
+.left-portion{
+  display: flex;
+  gap: 50px;
+}
+ .each-link{
+ text-decoration: none;
+ color:black;
+}

@@ -1,0 +1,55 @@
+.seating-wrapper {
+  text-align: center;
+  padding: 20px;
+}
+
+.seat-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.seat-icon-wrapper {
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.seat-icon {
+  font-size: 36px;
+  color: gray;
+  transition: 0.2s ease;
+}
+
+.seat-icon:hover {
+  color: #888;
+}
+
+.seat-icon.selected {
+  color: #4caf50; /* green */
+}
+
+.seat-icon.booked {
+    color: red;
+    cursor: not-allowed;
+}
+
+.selected-info {
+  margin-top: 20px;
+}
+.book-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.booked-info {
+    margin-top: 10px;
+    color: #333;
+}

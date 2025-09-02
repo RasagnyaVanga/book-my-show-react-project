@@ -1,0 +1,1662 @@
+{
+  "movies": [
+    {
+      "id": "m1",
+      "title": "Salaar",
+      "language": "telugu",
+      "location": [
+        "hyderabad",
+        "mumbai",
+        "chennai",
+        "kerala",
+        "bengaluru"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/salaar-cease-fire--part-1-et00301886-1702971289.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/salaar-cease-fire--part-1-et00301886-1702971289.jpg",
+      "description": "Salaar follows the story of Deva, a man who rises from the shadows of his past to challenge the most dangerous criminal empire. With intense action, raw emotions, and a tale of brotherhood, the film blends high-octane sequences with heartfelt drama. It explores themes of power, loyalty, and survival in a world ruled by violence. Prabhas delivers a larger-than-life performance that elevates the film’s grandeur. The movie promises edge-of-the-seat action along with deep emotional layers."
+    },
+    {
+      "id": "m2",
+      "title": "Mahavatar Narsimha",
+      "language": "hindi",
+      "location": [
+        "mumbai",
+        "chennai",
+        "kerala",
+        "bengaluru"
+      ],
+      "genre": "Action, Animation, Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/mahavatar-narsimha-et00429289-1753248294.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/mahavatar-narsimha-et00429289-1753248294.jpg",
+      "description": "Mahavatar Narsimha is a retelling of the ancient mythological tale of Lord Vishnu’s fierce incarnation, Narasimha. The film blends stunning animation with powerful storytelling to showcase the eternal fight between good and evil. Through action-packed sequences and dramatic visuals, it brings the legend of Prahlada and Hiranyakashipu to life for a modern audience. It highlights themes of faith, justice, and divine intervention. A spiritual journey filled with both spectacle and emotional depth."
+    },
+    {
+      "id": "m3",
+      "title": "Param Sundari",
+      "language": "Hindi",
+      "location": [
+        "hyderabad",
+        "mumbai",
+        "chennai",
+        "kerala",
+        "bengaluru"
+      ],
+      "genre": "drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/param-sundari-et00426409-1753881029.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/param-sundari-et00426409-1753881029.jpg",
+      "description": "Param Sundari follows the journey of a young woman whose beauty and charm hide her struggles with identity and societal expectations. The drama explores her relationships, ambitions, and the conflicts she faces in a world quick to judge appearances. It delves into emotional themes of self-worth, love, and acceptance. With compelling performances, the film creates a balance between raw realism and cinematic storytelling. A heart-touching narrative about resilience and inner strength."
+    },
+    {
+      "id": "m4",
+      "title": "Saiyaara",
+      "language": "Hindi",
+      "location": [
+        "mumbai",
+        "chennai",
+        "hyderabad"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/saiyaara-et00447951-1752737895.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/saiyaara-et00447951-1752737895.jpg",
+      "description": "Saiyaara is a soulful romantic tale of two people brought together by destiny but separated by circumstances. Their love blossoms in the backdrop of modern city life, exploring both passion and heartbreak. The story portrays the sacrifices lovers make for each other and the challenges of long-distance relationships. With melodious music and heartfelt performances, the film captures the essence of timeless romance. It is both an emotional rollercoaster and a celebration of love."
+    },
+    {
+      "id": "m5",
+      "title": "Coolie: The Powerhouse (Hindi)",
+      "language": "Hindi",
+      "location": [
+        "bengaluru",
+        "mumbai",
+        "kerala"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/coolie-the-powerhouse-hindi-et00452035-1755155650.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/coolie-et00395817-1755153511.jpg",
+      "description": "Coolie: The Powerhouse tells the story of a fearless worker who becomes the voice of the oppressed against corrupt forces. The film is packed with high-energy action, thrilling stunts, and powerful dialogues. It explores the fight for justice and dignity among common people. The protagonist’s courage and determination to protect his people form the core of the narrative. A mass entertainer with a blend of action, drama, and emotion."
+    },
+    {
+      "id": "m6",
+      "title": "Dhadak 2",
+      "language": "Hindi",
+      "location": [
+        "kerala",
+        "chennai",
+        "mumbai"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dhadak-2-et00399488-1754200950.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dhadak-2-et00399488-1754200950.jpg",
+      "description": "Dhadak 2 is a heart-rending tale of young lovers who face societal and family opposition due to class and cultural divides. Set against the backdrop of a vibrant yet conservative society, their story is filled with passion, pain, and resilience. The film showcases the innocence of first love and the courage to fight against all odds. Emotional performances add depth to the narrative, making it relatable to every generation. A soulful soundtrack elevates the intensity of their journey."
+    },
+    {
+      "id": "m7",
+      "title": "Son of Sardaar 2",
+      "language": "Hindi",
+      "location": [
+        "hyderabad",
+        "mumbai",
+        "kerala"
+      ],
+      "genre": "comedy",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/son-of-sardaar-2-et00450471-1754122330.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/son-of-sardaar-2-et00450471-1754122330.jpg",
+      "description": "Son of Sardaar 2 brings back the beloved characters in a laughter-filled ride of family feuds, misunderstandings, and comical adventures. Set in the colorful backdrop of Punjab, the film is filled with witty one-liners and situational humor. It highlights themes of friendship, love, and family bonds in a lighthearted way. With over-the-top antics and hilarious twists, it promises non-stop entertainment. A perfect blend of comedy and emotional connect for all age groups."
+    },
+    {
+      "id": "m8",
+      "title": "Lokah: Chapter 1 - Chandra",
+      "language": "Hindi",
+      "location": [
+        "chennai",
+        "kerala",
+        "hyderabad"
+      ],
+      "genre": "thriller",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/lokah-chapter-1--chandra-et00456016-1753856507.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/lokah-chapter-1--chandra-et00456016-1753856507.jpg",
+      "description": "Lokah: Chapter 1 - Chandra is a gripping thriller that uncovers the dark secrets of a mysterious organization. The story follows Chandra, an ordinary man caught in extraordinary circumstances, battling against hidden powers. With twists and suspense at every turn, the narrative keeps viewers guessing until the very end. Themes of betrayal, power, and survival dominate the film. It sets the stage for an epic saga, leaving audiences eagerly waiting for the next chapter."
+    },
+    {
+      "id": "m9",
+      "title": "F1: The Movie",
+      "language": "English, Hindi, Tamil, Telugu",
+      "location": [
+        "mumbai",
+        "chennai",
+        "bengaluru"
+      ],
+      "genre": "documentary",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/f1-the-movie-et00403839-1755506023.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/f1-the-movie-et00403839-1755506023.jpg",
+      "description": "F1: The Movie is an adrenaline-packed documentary that takes audiences inside the world of Formula One racing. It showcases the lives of legendary drivers, the cutting-edge technology of race cars, and the thrill of high-speed competition. The film reveals the challenges, risks, and sacrifices that come with pursuing racing glory. Spectacular visuals put viewers right on the track. A must-watch for motorsport enthusiasts and casual viewers alike."
+    },
+    {
+      "id": "m10",
+      "title": "Rockstar",
+      "language": "Hindi",
+      "location": [
+        "hyderabad",
+        "kerala",
+        "bengaluru"
+      ],
+      "genre": "Drama,romantic,musical",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/rockstar-et00006184-20-11-2020-10-35-32.jpg",
+      "background-img": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/rockstar-et00006184-20-11-2020-10-35-32.jpg",
+      "description": "Rockstar is the emotional journey of a young musician whose passion for music intertwines with his turbulent love life. The film portrays the struggles of chasing dreams while dealing with heartbreak and fame. Soul-stirring songs form the heartbeat of the narrative, making it a musical masterpiece. The protagonist’s transformation from a carefree dreamer to a tormented artist is raw and powerful. A story that resonates with anyone who has loved, lost, and pursued their passion."
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "managedBy": "developer",
+      "type": "standup",
+      "title": "Comedy by Abhishek",
+      "location": "hyderabad",
+      "date": "2025-09-05",
+      "time": "07:00 PM",
+      "availableTickets": 105,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAyNiBPY3Q%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00458295-edkwduqhgu-portrait.jpg",
+      "description": "Abishek brings you his brand new special — Abishek wants to Enjoy Life! With all the negativity and gloom surrounding us, people have gotten a little too serious and forgotten to enjoy life. Abishek is here to bring you all the light, positive energy, and super funny observations and anecdotes from his own life. The show will have everything — some music, some movement, and definitely some jokes as well! This special is going to be a one-of-a-kind experience for the audience."
+    },
+    {
+      "id": "e2",
+      "managedBy": "developer",
+      "type": "concert",
+      "title": "Rock Night Hyderabad",
+      "location": "hyderabad",
+      "date": "2025-09-12",
+      "time": "08:30 PM",
+      "availableTickets": 157,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxMSBPY3Q%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end:l-text,ie-UFJPTU9URUQ%3D,co-FFFFFF,bg-DC354B,ff-Roboto,fs-20,lx-N16,ly-12,lfo-top_right,pa-12_14_12_14,r-6,l-end/et00446350-ehrrshdkdw-portrait.jpg",
+      "description": "An electrifying rock concert with top local bands."
+    },
+    {
+      "id": "e3",
+      "managedBy": "developer",
+      "type": "theatre",
+      "title": "Telugu Drama Fest",
+      "location": "hyderabad",
+      "date": "2025-09-18",
+      "time": "06:30 PM",
+      "availableTickets": 94,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyMCBTZXA%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00458112-puzhlmevgj-portrait.jpg",
+      "description": "Experience heartfelt performances in this Telugu theatre event."
+    },
+    {
+      "id": "e4",
+      "managedBy": "developer",
+      "type": "workshop",
+      "title": "Photography Basics",
+      "location": "hyderabad",
+      "date": "2025-09-22",
+      "time": "10:00 AM",
+      "availableTickets": 60,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAzMSBBdWc%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00442594-ncympafyqa-portrait.jpg",
+      "description": "Learn the basics of DSLR photography in a 3-hour workshop."
+    },
+    {
+      "id": "e5",
+      "managedBy": "developer",
+      "type": "music",
+      "title": "Kerala Beats Live",
+      "location": "kerala",
+      "date": "2025-09-28",
+      "time": "07:30 PM",
+      "availableTickets": 140,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00445023-gbrvygbmph-portrait.jpg",
+      "description": "Fusion of traditional Kerala music and modern beats."
+    },
+    {
+      "id": "e6",
+      "managedBy": "developer",
+      "type": "standup",
+      "title": "Malayali Comedy Hour",
+      "location": "kerala",
+      "date": "2025-10-03",
+      "time": "06:00 PM",
+      "availableTickets": 110,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWc%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end:l-text,ie-UFJPTU9URUQ%3D,co-FFFFFF,bg-DC354B,ff-Roboto,fs-20,lx-N16,ly-12,lfo-top_right,pa-12_14_12_14,r-6,l-end/et00339165-bjpexrvhjy-portrait.jpg",
+      "description": "A full hour of laughs with popular Kerala comedians."
+    },
+    {
+      "id": "e7",
+      "managedBy": "developer",
+      "type": "theatre",
+      "title": "Classical Kathakali",
+      "location": "kerala",
+      "date": "2025-10-08",
+      "time": "05:30 PM",
+      "availableTickets": 80,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxMyBTZXAgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00459200-urjzjgbuwq-portrait.jpg",
+      "description": "Experience Kerala’s legendary Kathakali live on stage."
+    },
+    {
+      "id": "e8",
+      "managedBy": "developer",
+      "type": "workshop",
+      "title": "Coconut Art Workshop",
+      "location": "kerala",
+      "date": "2025-10-11",
+      "time": "11:00 AM",
+      "availableTickets": 45,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00445023-gbrvygbmph-portrait.jpg",
+      "description": "Craft unique souvenirs using coconut shells."
+    },
+    {
+      "id": "e9",
+      "managedBy": "developer",
+      "type": "concert",
+      "title": "Mumbai Jazz Night",
+      "location": "mumbai",
+      "date": "2025-10-15",
+      "time": "08:00 PM",
+      "availableTickets": 160,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCA3IERlYw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00454812-fgjpmcrpad-portrait.jpg",
+      "description": "Smooth jazz under the stars at Marine Drive."
+    },
+    {
+      "id": "e10",
+      "managedBy": "developer",
+      "type": "standup",
+      "title": "Maximum City Laughs",
+      "location": "mumbai",
+      "date": "2025-10-19",
+      "time": "07:00 PM",
+      "availableTickets": 105,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00457024-bhzhcytqju-portrait.jpg",
+      "description": "Top comics from across India take over Mumbai."
+    },
+    {
+      "id": "e11",
+      "managedBy": "developer",
+      "type": "film",
+      "title": "Indie Film Showcase",
+      "location": "mumbai",
+      "date": "2025-10-25",
+      "time": "04:00 PM",
+      "availableTickets": 70,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWc%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00454054-ezsbucseml-portrait.jpg",
+      "description": "Screening of award-winning independent films."
+    },
+    {
+      "id": "e12",
+      "managedBy": "developer",
+      "type": "workshop",
+      "title": "Acting for Beginners",
+      "location": "mumbai",
+      "date": "2025-11-01",
+      "time": "10:30 AM",
+      "availableTickets": 55,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWc%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00453437-nvtxrdvtdq-portrait.jpg",
+      "description": "Learn the basics of theatre acting in this hands-on workshop."
+    },
+    {
+      "id": "e13",
+      "managedBy": "developer",
+      "type": "music",
+      "title": "Classical Night Chennai",
+      "location": "chennai",
+      "date": "2025-11-06",
+      "time": "06:30 PM",
+      "availableTickets": 128,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00457003-lmpqlqndcd-portrait.jpg",
+      "description": "A grand night of Carnatic music by top vocalists."
+    },
+    {
+      "id": "e14",
+      "managedBy": "developer",
+      "type": "standup",
+      "title": "Madras Comedy Club",
+      "location": "chennai",
+      "date": "2025-11-10",
+      "time": "07:00 PM",
+      "availableTickets": 86,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IERlYw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00445738-hgaultrpdp-portrait.jpg",
+      "description": "Laugh your heart out with Chennai’s local talent."
+    },
+    {
+      "id": "e15",
+      "managedBy": "developer",
+      "type": "theatre",
+      "title": "Tamil Drama Series",
+      "location": "chennai",
+      "date": "2025-11-15",
+      "time": "05:30 PM",
+      "availableTickets": 85,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAyOCBTZXA%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00355125-fsmpnzslhs-portrait.jpg",
+      "description": "Watch live performances of award-winning Tamil plays."
+    },
+    {
+      "id": "e16",
+      "managedBy": "developer",
+      "type": "workshop",
+      "title": "Classical Dance Workshop",
+      "location": "chennai",
+      "date": "2025-11-20",
+      "time": "09:30 AM",
+      "availableTickets": 50,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAzMSBBdWc%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00453053-eccgvegmbx-portrait.jpg",
+      "description": "Join expert Bharatnatyam instructors for an immersive dance session."
+    },
+    {
+      "id": "e17",
+      "managedBy": "developer",
+      "type": "standup",
+      "title": "LOL Bengaluru",
+      "location": "bengaluru",
+      "date": "2025-11-25",
+      "time": "07:30 PM",
+      "availableTickets": 150,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00456675-ksysgcvuyt-portrait.jpg",
+      "description": "A mega comedy night with Bengaluru's top acts."
+    },
+    {
+      "id": "e18",
+      "managedBy": "developer",
+      "type": "music",
+      "title": "Indie Vibes",
+      "location": "bengaluru",
+      "date": "2025-11-29",
+      "time": "08:00 PM",
+      "availableTickets": 170,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00445018-vwumclkchb-portrait.jpg",
+      "description": "Fresh tunes from India’s rising indie stars."
+    },
+    {
+      "id": "e19",
+      "managedBy": "developer",
+      "type": "tech",
+      "title": "Hackathon 2025",
+      "location": "bengaluru",
+      "date": "2025-12-05",
+      "time": "09:00 AM",
+      "availableTickets": 200,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00321018-bktfepmhdf-portrait.jpg",
+      "description": "Code. Build. Compete. Win. 48 hours of pure tech adrenaline."
+    },
+    {
+      "id": "e20",
+      "managedBy": "developer",
+      "type": "workshop",
+      "title": "UI/UX Design Bootcamp",
+      "location": "bengaluru",
+      "date": "2025-12-12",
+      "time": "10:00 AM",
+      "availableTickets": 105,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxIE5vdg%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00397951-jztlbcgrrk-portrait.jpg",
+      "description": "Learn UI/UX design fundamentals in this 1-day intensive course."
+    },
+    {
+      "id": "8aab",
+      "managedBy": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "Concert",
+      "title": "Sunburn Festival 2025",
+      "location": "mumbai",
+      "date": "2025-12-12",
+      "time": "09:00",
+      "availableTickets": 200,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAxOSBEZWM%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00457262-dkpgffedtg-portrait.jpg",
+      "description": "Asia’s biggest dance music festival returns with a brand-new chapter ~ Sunburn Festival 2025, now taking over Mumbai, Maharashtra for the first time ever!Get ready for a three-day celebration of music, culture, and lifestyle featuring massive global headliners, world-class supporting acts, and a community of thousands of dance music lovers coming together under one sky.Expect top-notch production, jaw-dropping stage designs, cutting-edge visuals, and immersive experiences that will redefine the festival landscape. From electrifying performances to curated lounges & brand zones alongside gourmet experiences - this is Sunburn like you’ve never seen before.Sunburn Festival 2025 : Mumbai, Maharashtra becomes the new home of dance music."
+    },
+    {
+      "id": "49df",
+      "managedBy": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "Workshop",
+      "title": "Perfume Making Workshop at ZIndagi",
+      "location": "hyderabad",
+      "date": "2025-09-07",
+      "time": "13:00",
+      "availableTickets": 100,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCA3IFNlcA%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00453377-jqxdsztrcn-portrait.jpg",
+      "description": "Step into the art of fragrance creation at our Perfume making workshop, Guided by an expert perfumer, you’ll learn how scents are composed, how top, middle, and base notes work together, and how to blend them into a signature fragrance that’s uniquely yours. Join us for this hands-on session- All materials and refreshments will be provided — just bring your curiosity and love for fine scents."
+    },
+    {
+      "id": "a70b",
+      "managedBy": "vGv2mKFVwSXu10Q9JNEjlLmARVD3",
+      "type": "Meet",
+      "title": "Single's meetup",
+      "location": "hyderabad",
+      "date": "2025-10-01",
+      "time": "19:00",
+      "availableTickets": 98,
+      "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IFNlcCBvbndhcmRz,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00394655-mcknqadbae-portrait.jpg",
+      "description": "Welcome to the `Single`s Meetup`  a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That`s where we come in.This isn`t your typical singles event with the pressure of finding `the one.` Instead, it`s an evening dedicated to the art of living single, where you can share stories, laugh about the dating disasters, and discuss the personal growth and freedom that comes with this phase of life."
+    }
+  ],
+  "bookings": [
+    {
+      "id": "8a1a",
+      "user_id": "vGv2mKFVwSXu10Q9JNEjlLmARVD3",
+      "type": "event",
+      "event_id": "e2",
+      "event_title": "Rock Night Hyderabad",
+      "event_type": "concert",
+      "time": "08:30 PM",
+      "seats": 2,
+      "location": "Hyderabad",
+      "booking_time": "2025-08-31T19:10:13.901Z"
+    },
+    {
+      "id": "7d26",
+      "user_id": "vGv2mKFVwSXu10Q9JNEjlLmARVD3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 2,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-01T04:08:39.248Z"
+    },
+    {
+      "id": "4947",
+      "user_id": "vGv2mKFVwSXu10Q9JNEjlLmARVD3",
+      "type": "movie",
+      "movie_id": "m10",
+      "movie_name": "Rockstar",
+      "theatre_id": "t24",
+      "theatre_name": "Urvashi Theatre",
+      "show_date": "01 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C1",
+        "R1C2"
+      ],
+      "location": "Bengaluru",
+      "booking_time": "2025-09-01T06:26:43.842Z"
+    },
+    {
+      "id": "e44d",
+      "user_id": "Gor5gjjowYWMRDY2e2s7ZkbMg2i2",
+      "type": "event",
+      "event_id": "e14",
+      "event_title": "Madras Comedy Club",
+      "event_type": "standup",
+      "time": "07:00 PM",
+      "seats": 4,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-01T10:56:09.858Z"
+    },
+    {
+      "id": "ab81",
+      "user_id": "Gor5gjjowYWMRDY2e2s7ZkbMg2i2",
+      "type": "movie",
+      "movie_id": "m8",
+      "movie_name": "Lokah: Chapter 1 - Chandra",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_time": "9:00AM",
+      "seats": [
+        "R9C8",
+        "R8C8",
+        "R6C11",
+        "R4C12"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-01T10:56:54.155Z"
+    },
+    {
+      "id": "c52b",
+      "user_id": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "type": "movie",
+      "movie_id": "m2",
+      "movie_name": "Mahavatar Narsimha",
+      "theatre_id": "t11",
+      "theatre_name": "GPR Cinemas",
+      "show_date": "01 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C1",
+        "R1C2"
+      ],
+      "location": "Chennai",
+      "booking_time": "2025-09-01T11:25:41.002Z"
+    },
+    {
+      "id": "24fa",
+      "user_id": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "01 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C1",
+        "R1C2"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-01T11:36:07.540Z"
+    },
+    {
+      "id": "0442",
+      "user_id": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "type": "movie",
+      "movie_id": "m8",
+      "movie_name": "Lokah: Chapter 1 - Chandra",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "03 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C3",
+        "R1C4",
+        "R1C5",
+        "R1C2",
+        "R1C1"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T04:10:31.840Z"
+    },
+    {
+      "id": "0fc1",
+      "user_id": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "type": "movie",
+      "movie_id": "m2",
+      "movie_name": "Mahavatar Narsimha",
+      "theatre_id": "t6",
+      "theatre_name": "Forum Cinemas",
+      "show_date": "02 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C2",
+        "R1C3"
+      ],
+      "location": "Mumbai",
+      "booking_time": "2025-09-02T04:48:50.999Z"
+    },
+    {
+      "id": "2d72",
+      "user_id": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "type": "movie",
+      "movie_id": "m4",
+      "movie_name": "Saiyaara",
+      "theatre_id": "t1",
+      "theatre_name": "PVR Cinemas (hyd)",
+      "show_date": "03 Sept 2025",
+      "show_time": "3:00PM",
+      "seats": [
+        "R1C6",
+        "R1C7"
+      ],
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T06:14:11.213Z"
+    },
+    {
+      "id": "1c2a",
+      "user_id": "2N2PbAThPmVZX3ZqHZelF1nhrIC3",
+      "type": "movie",
+      "movie_id": "m6",
+      "movie_name": "Dhadak 2",
+      "theatre_id": "t6",
+      "theatre_name": "Forum Cinemas",
+      "show_time": "9:00AM",
+      "seats": [
+        "R1C1",
+        "R1C2"
+      ],
+      "location": "Mumbai",
+      "booking_time": "2025-09-02T06:25:56.206Z"
+    }
+  ],
+  "theatres": [
+    {
+      "theatre_id": "t1",
+      "name": "PVR Cinemas (hyd)",
+      "location": "hyderabad",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "b03b"
+    },
+    {
+      "theatre_id": "t2",
+      "name": "AMB Cinemas",
+      "location": "hyderabad",
+      "movies": [
+        "m1",
+        "m3",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "3f2b"
+    },
+    {
+      "theatre_id": "t3",
+      "name": "SVC Cinemas",
+      "location": "hyderabad",
+      "movies": [
+        "m1",
+        "m4",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "ec1d"
+    },
+    {
+      "theatre_id": "t4",
+      "name": "Prasads IMAX",
+      "location": "hyderabad",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "c286"
+    },
+    {
+      "theatre_id": "t5",
+      "name": "Asian Cinemas",
+      "location": "hyderabad",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m7",
+        "m8"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "0590"
+    },
+    {
+      "theatre_id": "t6",
+      "name": "Forum Cinemas",
+      "location": "mumbai",
+      "movies": [
+        "m1",
+        "m2",
+        "m5",
+        "m6",
+        "m7",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "1dfe"
+    },
+    {
+      "theatre_id": "t7",
+      "name": "Carnival Cinemas",
+      "location": "mumbai",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "ccd7"
+    },
+    {
+      "theatre_id": "t8",
+      "name": "INOX R-City",
+      "location": "mumbai",
+      "movies": [
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "a473"
+    },
+    {
+      "theatre_id": "t9",
+      "name": "PVR Phoenix Mall",
+      "location": "mumbai",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "1e04"
+    },
+    {
+      "theatre_id": "t10",
+      "name": "Cinepolis Andheri",
+      "location": "mumbai",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "eac2"
+    },
+    {
+      "theatre_id": "t11",
+      "name": "GPR Cinemas",
+      "location": "chennai",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m6",
+        "m2",
+        "m8",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "5701"
+    },
+    {
+      "theatre_id": "t12",
+      "name": "Raj Cinemas",
+      "location": "chennai",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m2",
+        "m8",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "54e7"
+    },
+    {
+      "theatre_id": "t13",
+      "name": "AGS Cinemas",
+      "location": "chennai",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m6",
+        "m2",
+        "m8"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "c189"
+    },
+    {
+      "theatre_id": "t14",
+      "name": "Satyam Cinemas",
+      "location": "chennai",
+      "movies": [
+        "m1",
+        "m4",
+        "m6",
+        "m2",
+        "m8",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "825c"
+    },
+    {
+      "theatre_id": "t15",
+      "name": "Escape Cinemas",
+      "location": "chennai",
+      "movies": [
+        "m1",
+        "m3",
+        "m4",
+        "m6",
+        "m2",
+        "m8",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "710a"
+    },
+    {
+      "theatre_id": "t16",
+      "name": "Cinepolis Lulu Mall",
+      "location": "kerala",
+      "movies": [
+        "m1",
+        "m3",
+        "m5",
+        "m6",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "023c"
+    },
+    {
+      "theatre_id": "t17",
+      "name": "PVR Oberon Mall",
+      "location": "kerala",
+      "movies": [
+        "m3",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "96e0"
+    },
+    {
+      "theatre_id": "t18",
+      "name": "Carnival Cinemas Trivandrum",
+      "location": "kerala",
+      "movies": [
+        "m1",
+        "m3",
+        "m5",
+        "m6",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "2217"
+    },
+    {
+      "theatre_id": "t19",
+      "name": "INOX Mall of Joy",
+      "location": "kerala",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m7",
+        "m8",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "fccc"
+    },
+    {
+      "theatre_id": "t20",
+      "name": "Q Cinemas",
+      "location": "kerala",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m5",
+        "m6",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "f964"
+    },
+    {
+      "theatre_id": "t21",
+      "name": "INOX Garuda Mall",
+      "location": "bengaluru",
+      "movies": [
+        "m3",
+        "m5",
+        "m9",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "d2c3"
+    },
+    {
+      "theatre_id": "t22",
+      "name": "PVR Orion Mall",
+      "location": "bengaluru",
+      "movies": [
+        "m1",
+        "m2",
+        "m5",
+        "m9",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "ceab"
+    },
+    {
+      "theatre_id": "t23",
+      "name": "Cinepolis Royal Meenakshi",
+      "location": "bengaluru",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m9",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "ec36"
+    },
+    {
+      "theatre_id": "t24",
+      "name": "Urvashi Theatre",
+      "location": "bengaluru",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m5",
+        "m10"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "18f4"
+    },
+    {
+      "theatre_id": "t25",
+      "name": "Gopalan Cinemas",
+      "location": "bengaluru",
+      "movies": [
+        "m1",
+        "m2",
+        "m3",
+        "m5",
+        "m9"
+      ],
+      "shows": [
+        {
+          "id": "1",
+          "time": "9:00AM"
+        },
+        {
+          "id": "2",
+          "time": "12:00PM"
+        },
+        {
+          "id": "3",
+          "time": "3:00PM"
+        },
+        {
+          "id": "4",
+          "time": "6:00PM"
+        },
+        {
+          "id": "5",
+          "time": "9:00PM"
+        },
+        {
+          "id": "6",
+          "time": "12:30AM"
+        }
+      ],
+      "id": "114a"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "86bc",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "review-description": "not bad",
+      "userName": "ravi",
+      "movieId": "m4"
+    },
+    {
+      "id": "e9c1",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "review-description": "Rockstar -- must watch ..great movie..",
+      "userName": "ravi",
+      "movieId": "m10"
+    },
+    {
+      "id": "6ce4",
+      "userId": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "review-description": "Every person must experience this movie!",
+      "userName": "saketh",
+      "movieId": "m2"
+    },
+    {
+      "id": "2f0f",
+      "userId": "gzKzhX6RKSez79qJZQtSAHVBO033",
+      "review-description": "Blockbuster movie!! Great watch.. ",
+      "userName": "saketh",
+      "movieId": "m1"
+    },
+    {
+      "id": "b259",
+      "userId": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "review-description": "It was a decent watch. Good story.",
+      "userName": "vinay",
+      "movieId": "m8"
+    },
+    {
+      "id": "298d",
+      "userId": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "rating": 7,
+      "review-description": "nice",
+      "userName": "vinay",
+      "movieId": "m2"
+    },
+    {
+      "id": "2da5",
+      "userId": "yGq0SAZw9LTNz6ezZJrwRVMlc783",
+      "rating": 2.5,
+      "review-description": "waste of time",
+      "userName": "vinay",
+      "movieId": "m4"
+    },
+    {
+      "id": "3b6d",
+      "userId": "2N2PbAThPmVZX3ZqHZelF1nhrIC3",
+      "rating": 7.5,
+      "review-description": "good romcom",
+      "userName": "sriya",
+      "movieId": "m6"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+.event-details {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding: 80px;
+}
+
+.image {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgb(0, 0, 0, 0.1);
+    transition: transform;
+}
+
+.image:hover {
+    transform: translate(-5px, -5px);
+    box-shadow: 0 8px 20px rgb(0, 0, 0, 0.15);
+}
+
+
+.booking-box .title {
+    color: #f84464;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.booking-box .description {
+    line-height: 1.5rem;
+}
+
+.booking-details-box {
+    border-radius: 8px;
+    border: 0.5px solid gray;
+    padding: 20px;
+}
+
+.each-detail {
+    display: "flex";
+    justify-content: space-between;
+
+}
+
+.details-with-icons{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    font-size: 20px;
+}
+
+.book-button{
+margin: 15px;
+  padding: 8px 12px;
+  background-color: #f84464; /* BookMyShow red */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: calc(100% - 20px);
+}
+.book-button:hover {
+  background-color: #d93652;
+}
