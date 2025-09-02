@@ -17,6 +17,7 @@ import NotFound from './homepage/notfound.js';
 
 function App() {
 
+  //go over all the components and add better namings for comp,variables,functions,classNames wherever possible
   return (
 
     <Routes>
@@ -30,7 +31,7 @@ function App() {
         <Route path="events/:eventId/details" element={<EventDetails />}></Route>
         <Route path="manage-event" element={<ManageEvent />}></Route>
       </Route>
-
+{/* don't show profile button at all when the used is not logged in */}
       <Route path="/profile" element={<ProtectedRoute><Profile /></ProtectedRoute>} />
       <Route path="/login" element={<Login />} />
       <Route path="/signup" element={<Signup />} />

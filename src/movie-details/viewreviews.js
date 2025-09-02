@@ -20,6 +20,8 @@ export default function ViewReviews({ open, onClose, movieId }) {
         fetchReviews();
     }, [open, movieId]);
 
+
+    //Don't use inline css
     return (
         <Dialog open={open} onClose={onClose} fullWidth maxWidth="sm">
             <DialogTitle>Reviews</DialogTitle>

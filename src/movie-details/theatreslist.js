@@ -5,6 +5,7 @@ import { MovieContext } from '../globalcontext/MovieContextComponent';
 import { useNavigate } from "react-router-dom";
 import './theatres.css';
 export default function TheatresList() {
+    // pass MovieId as a prop
     const { currentDate, selectedLocation, currentMovie, currentShow, setCurrentShow, setCurrentTheatre } = useContext(MovieContext);
     const { movieId } = useParams();
     const navigate = useNavigate();
@@ -28,6 +29,7 @@ export default function TheatresList() {
         await setCurrentShow(show);
         navigate(`/movies/${currentMovie.id}/theatres/${theatre.theatre_id}/shows/${show.id}`);
         console.log("Selected date "+currentDate);
+        //remove all debug logs
     }
     return (
         <div>

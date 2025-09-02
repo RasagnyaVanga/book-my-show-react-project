@@ -20,6 +20,7 @@ export default function FirstNavbar() {
             <div className="left-portion" ><Link to="/"><img className="logo" src={logo} alt="BookMyShow logo" /></Link></div>
             {/* <SearchAppBar/> */}
             <div className="right-portion">   <select className="location-select" value={selectedLocation} onChange={(e) => handleLocationChange(e)}>
+                {/*store the data in a datastructure and loop over it to avoid redundancy */}
                 <option> Hyderabad</option>
                 <option> Bengaluru</option>
                 <option> Chennai</option>
@@ -30,7 +31,7 @@ export default function FirstNavbar() {
                 <button className="button" onClick={handleLogout}>Logout</button>
             } 
             { (!user) &&
-                <Link to="login"><button className="button">Login</button></Link>
+                <Link to="login"><button className="button">Login/Signup</button></Link>
             }
                 <Link  to="/profile"><button className="button">Profile</button></Link>
             </div>

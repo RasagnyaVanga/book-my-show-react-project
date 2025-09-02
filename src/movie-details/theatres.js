@@ -9,6 +9,8 @@ import { AuthContext } from "../authentication/authcontext.js";
 import ViewReviews from "./viewreviews.js";
 import ReviewPopup from "./reviewform-dialog.js";
 import Rating from "./rating.js";
+
+// rename as Movie-Details
 export default function Theatres() {
     const { movieId } = useParams();
     const theatreRef = useRef(null);
@@ -44,6 +46,7 @@ export default function Theatres() {
                 toast.error("You should login to add a review");
                 return;
             }
+            //add better names for response saying what it contains
             const res = await fetch(`http://localhost:5001/bookings/?movie_id=${currentMovie.id}&user_id=${user.uid}`);
             const data = await res.json(); //checking if user saw movie
             //console.log(data);

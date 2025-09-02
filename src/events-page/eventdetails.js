@@ -9,6 +9,7 @@ import { FaRegClock } from "react-icons/fa6";
 import { IoLocationOutline } from "react-icons/io5";
 import { SlPeople } from "react-icons/sl";
 
+//follow same folder structure as movies
 export default function EventDetails() {
     const { currentEvent, setCurrentEvent, selectedLocation } = useContext(MovieContext);
     const ticketInputRef = useRef();
@@ -84,6 +85,8 @@ export default function EventDetails() {
 
 
     }
+
+    //once booked redirect him to different page and also disable Book Tickets button using Loading
     return (
         <div className="event-details">
             <div className='left'><img className="image" src={currentEvent.poster} alt="event picture" /></div>

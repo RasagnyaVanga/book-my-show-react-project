@@ -1,3 +1,4 @@
+// recommendedMovies is not making sense
 import './recommendedmovies.css';
 import { useQueries } from '@tanstack/react-query';
 import { useContext } from 'react';
@@ -34,6 +35,7 @@ export default function RecommendedMovies() {
     const allMovies=movieQuery.data;
     const allEvents=eventQuery.data;
 
+    // better naming - handleMovieClick
     const handleBookingMovieTickets = (movie) => {
         setCurrentMovie(movie);
         navigate(`/movies/${movie.id}/theatres`);
@@ -45,6 +47,8 @@ export default function RecommendedMovies() {
     };
 
     return (
+
+        //Use a common component CARD for all the movies/events and use it where ever needed
         <div className="whole-recommended-section">
             <h2>Recommended Movies</h2>
             <div className='rec-group'>

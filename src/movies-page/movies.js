@@ -4,8 +4,9 @@ import { useQuery } from "@tanstack/react-query";
 import { useNavigate } from "react-router-dom";
 import { MovieContext } from '../globalcontext/MovieContextComponent';
 
+//rename this directory to all-movies
 export default function Movies() {
-
+//remove unused variables,imports...
   const { currentMovie, setCurrentMovie, selectedLocation } = useContext(MovieContext);
   const navigate = useNavigate();
 
@@ -26,6 +27,7 @@ export default function Movies() {
   if (isPending) return <p>Loading...</p>;
   if (error) return <p>Error: {error.message}</p>;
 
+  //naming
   const handleBookingTickets = (movie) => {
     setCurrentMovie(movie);
     navigate(`/movies/${movie.id}/theatres`);

@@ -43,6 +43,7 @@ export default function Showscreening() {
     }, [currentTheatre, currentShow, setBookedSeats]); //fetching the bookedtickets for every unmount so we will be able to see updated data
 
     const bookSeats = async () => {
+        //you can just disable the button if no seat is selected
         if (selectedSeats.length === 0) {
             alert("Please select at least one seat to book.");
             return;
@@ -95,6 +96,7 @@ export default function Showscreening() {
                                 const seatId = generateSeatId(row, col);
                                 const isSelected = selectedSeats.includes(seatId);
                                 const isBooked = bookedSeats.includes(seatId);
+                                //can we move this to onClick/handle
                                 return (
                                     <td key={seatId} className="seat-icon-wrapper" onClick={() => toggleSeat(seatId)}>
                                         <ChairIcon

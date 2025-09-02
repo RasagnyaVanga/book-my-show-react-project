@@ -203,7 +203,7 @@
       "location": "kerala",
       "date": "2025-09-28",
       "time": "07:30 PM",
-      "availableTickets": 140,
+      "availableTickets": 137,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBBdWcgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00445023-gbrvygbmph-portrait.jpg",
       "description": "Fusion of traditional Kerala music and modern beats."
     },
@@ -419,7 +419,7 @@
       "location": "hyderabad",
       "date": "2025-10-01",
       "time": "19:00",
-      "availableTickets": 98,
+      "availableTickets": 7,
       "poster": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCA2IFNlcCBvbndhcmRz,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00394655-mcknqadbae-portrait.jpg",
       "description": "Welcome to the `Single`s Meetup`  a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That`s where we come in.This isn`t your typical singles event with the pressure of finding `the one.` Instead, it`s an evening dedicated to the art of living single, where you can share stories, laugh about the dating disasters, and discuss the personal growth and freedom that comes with this phase of life."
     },
@@ -805,6 +805,155 @@
       ],
       "location": "Chennai",
       "booking_time": "2025-09-02T10:56:54.979Z"
+    },
+    {
+      "id": "d0e3",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "movie",
+      "movie_id": "m1",
+      "movie_name": "Salaar",
+      "theatre_id": "t16",
+      "theatre_name": "Cinepolis Lulu Mall",
+      "show_date": "02 Sept 2025",
+      "show_time": "9:00AM",
+      "seats": [
+        "R4C2",
+        "R4C3"
+      ],
+      "location": "Kerala",
+      "booking_time": "2025-09-02T11:22:43.966Z"
+    },
+    {
+      "id": "3452",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "e5",
+      "event_title": "Kerala Beats Live",
+      "event_type": "music",
+      "time": "07:30 PM",
+      "seats": 3,
+      "location": "Kerala",
+      "booking_time": "2025-09-02T11:47:21.695Z"
+    },
+    {
+      "id": "0a11",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:17:35.374Z"
+    },
+    {
+      "id": "c022",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:17:39.178Z"
+    },
+    {
+      "id": "8e94",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:17:41.537Z"
+    },
+    {
+      "id": "e06d",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:17:42.127Z"
+    },
+    {
+      "id": "afa7",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:17:42.600Z"
+    },
+    {
+      "id": "a015",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:18:23.689Z"
+    },
+    {
+      "id": "8ada",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:18:23.822Z"
+    },
+    {
+      "id": "6560",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:18:23.959Z"
+    },
+    {
+      "id": "7fde",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 10,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:18:24.107Z"
+    },
+    {
+      "id": "2045",
+      "user_id": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "type": "event",
+      "event_id": "a70b",
+      "event_title": "Single's meetup",
+      "event_type": "Meet",
+      "time": "19:00",
+      "seats": 1,
+      "location": "Hyderabad",
+      "booking_time": "2025-09-02T12:19:10.804Z"
     }
   ],
   "theatres": [
@@ -1948,6 +2097,14 @@
       "review-description": "ultimate",
       "userName": "ravi",
       "movieId": "m2"
+    },
+    {
+      "id": "6e7d",
+      "userId": "6CxcUPw8L8QYZBwe2bEdxzkBT3G3",
+      "rating": 8.5,
+      "review-description": "good",
+      "userName": "ravi",
+      "movieId": "m8"
     }
   ]
 }
